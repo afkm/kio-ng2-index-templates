@@ -52,9 +52,13 @@ export function options ( rootPath:string=process.cwd() ) {
   const ngCliConfig = ngCli.resolve(rootPath)
   const packageConfig = packageJson.resolve(rootPath)
   const defaults = defaultConfig(rootPath)
-
+  const localPath = ( pathname:string|string[] ) => {
+    if ( Array.isArray(pathname) )
+      return pathname.map ( localPath )
+    return pathname.replace(rootPath,'.')
+  }
   return  <K extends keyof TemplateOptions> ( key:K ):TemplateOptions[K] => {
-    return (packageConfig && packageConfig(key)) || (ngCliConfig && ngCliConfig(key)) || defaults(key)
+    return localPath((packageConfig && packageConfig(key)) || (ngCliConfig && ngCliConfig(key)) || defaults(key))
   }
   
 }

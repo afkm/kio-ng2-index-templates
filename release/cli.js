@@ -39,6 +39,7 @@ const parseYargs = (args, cwd = process.cwd()) => {
     })
         .help('h')
         .usage('$0 --templateHtml ./src/index.html -i|--i18n ./src/assets/i18n/*.json -o ./dist')
+        .wrap(yargs.terminalWidth())
         .parse(args);
     return {
         templateHtml: argv.templateHtml,

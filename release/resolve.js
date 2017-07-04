@@ -42,8 +42,13 @@ function options(rootPath = process.cwd()) {
     const ngCliConfig = config_1.ngCli.resolve(rootPath);
     const packageConfig = config_1.packageJson.resolve(rootPath);
     const defaults = defaultConfig(rootPath);
+    const localPath = (pathname) => {
+        if (Array.isArray(pathname))
+            return pathname.map(localPath);
+        return pathname.replace(rootPath, '.');
+    };
     return (key) => {
-        return (packageConfig && packageConfig(key)) || (ngCliConfig && ngCliConfig(key)) || defaults(key);
+        return localPath((packageConfig && packageConfig(key)) || (ngCliConfig && ngCliConfig(key)) || defaults(key));
     };
 }
 exports.options = options;
