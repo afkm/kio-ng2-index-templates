@@ -1,0 +1,1894 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"parseComplete\tmethod"
+			],
+			[
+				"ht",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"sha",
+				"share\tproperty"
+			],
+			[
+				"subs",
+				"subscribeOn\tproperty"
+			],
+			[
+				"aft",
+				"afterAll\tfunction"
+			],
+			[
+				"sitem",
+				"sitemapConfig\tlet"
+			],
+			[
+				"sp",
+				"Spy\tinterface"
+			],
+			[
+				"obser",
+				"observer\tconst"
+			],
+			[
+				"lo",
+				"locales\tproperty"
+			],
+			[
+				"expec",
+				"expectation\tparameter"
+			],
+			[
+				"for",
+				"fori\tfor (…) {…}"
+			],
+			[
+				"bef",
+				"before\tfunction"
+			],
+			[
+				"FakeOB",
+				"FakeObserverSpy\talias"
+			],
+			[
+				"undefined",
+				"undefined\tkeyword"
+			],
+			[
+				"observ",
+				"observerApi\tfunction"
+			],
+			[
+				"sitemapS",
+				"sitemapLoaderService\tlet"
+			],
+			[
+				"publ",
+				"publications\tparameter"
+			],
+			[
+				"fixtureC",
+				"fixtureConfigProviderFactory\talias"
+			],
+			[
+				"call",
+				"callThrough\tmethod"
+			],
+			[
+				"defa",
+				"defaultFixtureConfigProviderFactory\tfunction"
+			],
+			[
+				"fixture",
+				"fixtureConfigProviderFactory\tfunction"
+			],
+			[
+				"publi",
+				"publication\tparameter"
+			],
+			[
+				"sitema",
+				"sitemapService\tlet"
+			],
+			[
+				"subsc",
+				"subscribeFakeObserver\talias"
+			],
+			[
+				"sitemp",
+				"sitemapService\tlet"
+			],
+			[
+				"Ob",
+				"objectContaining\tfunction"
+			],
+			[
+				"toHe",
+				"toHaveBeenCalledTimes\tmethod"
+			],
+			[
+				"sitemapSer",
+				"sitemapServiceSpies\tlet"
+			],
+			[
+				"toHave",
+				"toHaveBeenCalledTimes\tmethod"
+			],
+			[
+				"before",
+				"beforeAll\tfunction"
+			],
+			[
+				"KioSitem",
+				"KioSitemapLoaderService\talias"
+			],
+			[
+				"Lo",
+				"LocaleProvider\tinterface"
+			],
+			[
+				"spyOn",
+				"spyOnObserver\tconst"
+			],
+			[
+				"FakeB",
+				"FakeObserverSpy\ttype"
+			],
+			[
+				"sitemapSe",
+				"sitemapServiceObservers\tlet"
+			],
+			[
+				"befor",
+				"beforeEach\tfunction"
+			],
+			[
+				"toHA",
+				"toHaveBeenCalledTimes\tmethod"
+			],
+			[
+				"sitemaps",
+				"sitemapServiceSpies\tlet"
+			],
+			[
+				"spyO",
+				"spyOnObserver\tconst"
+			],
+			[
+				"befr",
+				"beforeAll\tfunction"
+			],
+			[
+				"sitemaPs",
+				"sitemapServiceObservers\tlet"
+			],
+			[
+				"A",
+				"AjaxRequest\talias"
+			],
+			[
+				"resp",
+				"responseText\tproperty"
+			],
+			[
+				"rs",
+				"responseText\tproperty"
+			],
+			[
+				"KioQu",
+				"KioQueryModel\talias"
+			],
+			[
+				"KioQ",
+				"KioPublicationQuery\tinterface"
+			],
+			[
+				"impor",
+				"import\tes2015_import"
+			],
+			[
+				"toHaveBeen",
+				"toHaveBeenCalledTimes\tmethod"
+			],
+			[
+				"observerS",
+				"observerSpyOnNext\tlet"
+			],
+			[
+				"ber",
+				"beforeAll\tfunction"
+			],
+			[
+				"ass",
+				"assets_test_keys\tconst"
+			],
+			[
+				"Htt",
+				"HttpModule\talias"
+			],
+			[
+				"supp",
+				"supportedLocales\tproperty"
+			],
+			[
+				"curr",
+				"current\tproperty"
+			],
+			[
+				"Trans",
+				"TranslateModule\tclass"
+			],
+			[
+				"PROJ",
+				"PROJECT_ROOT"
+			],
+			[
+				"Tras",
+				"TranslateModule\tclass"
+			],
+			[
+				"Tra",
+				"TranslateLoader\tclass"
+			],
+			[
+				"After",
+				"AfterViewInit\talias"
+			],
+			[
+				"nameOf",
+				"nameOfComponent\tconst"
+			],
+			[
+				"Func",
+				"FunctionConstructor\tinterface"
+			],
+			[
+				"AFKMLogg",
+				"AFKMLoggerOptions\tinterface"
+			],
+			[
+				"Compo",
+				"Component\talias"
+			],
+			[
+				"grou",
+				"groupEnd\tmethod"
+			],
+			[
+				"gro",
+				"groupCollapsed\tmethod"
+			],
+			[
+				"LOGG",
+				"LOGGER_TRACE\tvar"
+			],
+			[
+				"Opt",
+				"OptionKeys\talias"
+			],
+			[
+				"OP",
+				"OptionKeys\talias"
+			],
+			[
+				"toS",
+				"toLocaleDateString\tmethod"
+			],
+			[
+				"load",
+				"loadedmetadata\tproperty"
+			],
+			[
+				"aud",
+				"audioState\tproperty"
+			],
+			[
+				"Inje",
+				"Injector\talias"
+			],
+			[
+				"Componet",
+				"ComponentLoader\talias"
+			],
+			[
+				"COMPO",
+				"COMPONENT_LOADER\talias"
+			],
+			[
+				"CL_Rn",
+				"CL_RenderFactoryMap\ttype"
+			],
+			[
+				"Kiocom",
+				"KioComponentLoader\talias"
+			],
+			[
+				"descrb",
+				"describeNode\tmethod"
+			],
+			[
+				"KioCompo",
+				"KioComponentType\talias"
+			],
+			[
+				"KioConten",
+				"KioContentState\talias"
+			],
+			[
+				"CL_F",
+				"CL_FilterFactoryMap\ttype"
+			],
+			[
+				"Compl",
+				"ComponentLoaderDebugger\tclass"
+			],
+			[
+				"setR",
+				"setRootComponent\tmethod"
+			],
+			[
+				"Kioconten",
+				"KioContentState\talias"
+			],
+			[
+				"Kioc",
+				"KioComponentLoader\talias"
+			],
+			[
+				"compo",
+				"componentLoadersRenderer\tproperty"
+			],
+			[
+				"render",
+				"renderComponent\tmethod"
+			],
+			[
+				"roo",
+				"rootComponent\tproperty"
+			],
+			[
+				"desc",
+				"describeState\tmethod"
+			],
+			[
+				"isK",
+				"isKioComponentRoot\tfunction"
+			],
+			[
+				"descr",
+				"describeNode\tmethod"
+			],
+			[
+				"Ko",
+				"KioDataComponent\ttype"
+			],
+			[
+				"Kio",
+				"KioComponentRoot\talias"
+			],
+			[
+				"KioComponentR",
+				"KioComponentRoot\ttype"
+			],
+			[
+				"KioC",
+				"KioComponentLoader\talias"
+			],
+			[
+				"Lazy",
+				"LazyLoadingRootComponent\talias"
+			],
+			[
+				"Laz",
+				"LazyLoadingRootComponent\tinterface"
+			],
+			[
+				"Sim",
+				"SimpleChanges\talias"
+			],
+			[
+				"Compon",
+				"ComponentRef\talias"
+			],
+			[
+				"p",
+				"pluck\tproperty"
+			],
+			[
+				"com",
+				"combineAll\tproperty"
+			],
+			[
+				"lat",
+				"combineLatest\tproperty"
+			],
+			[
+				"timeout",
+				"timeoutWith\tproperty"
+			],
+			[
+				"Aftv",
+				"AfterViewInit\talias"
+			],
+			[
+				"AfterC",
+				"AfterContentInit\talias"
+			],
+			[
+				"swithc",
+				"switchMap\tproperty"
+			],
+			[
+				"AfterV",
+				"AfterViewInit\talias"
+			],
+			[
+				"conca",
+				"concatMap\tproperty"
+			],
+			[
+				"KioCom",
+				"KioComponentChild\ttype"
+			],
+			[
+				"waitFor",
+				"waitForChildState\tmethod"
+			],
+			[
+				"flat",
+				"flatMap\tproperty"
+			],
+			[
+				"st",
+				"stateChanges\tproperty"
+			],
+			[
+				"fla",
+				"flatMap\tproperty"
+			],
+			[
+				"conc",
+				"concat\tproperty"
+			],
+			[
+				"Com",
+				"KioComponent\tinterface"
+			],
+			[
+				"flta",
+				"flatMap\tproperty"
+			],
+			[
+				"ch",
+				"childElements\tproperty"
+			],
+			[
+				"rootC",
+				"rootComponentRef\tproperty"
+			],
+			[
+				"ComponentLoa",
+				"ComponentLoaderFactory\talias"
+			],
+			[
+				"createComp",
+				"createComponentLoaderForNode\tfunction"
+			],
+			[
+				"COmpo",
+				"ComponentLoader\tinterface"
+			],
+			[
+				"child",
+				"childComponents\tgetter"
+			],
+			[
+				"sk",
+				"skipWhile\tproperty"
+			],
+			[
+				"KioAbs",
+				"KioAbstractContentComponent\talias"
+			],
+			[
+				"flatM",
+				"flatMapTo\tproperty"
+			],
+			[
+				"KioFr",
+				"KioFragmentModel\talias"
+			],
+			[
+				"KIoc",
+				"KioComponentLoader\tclass"
+			],
+			[
+				"pub",
+				"publishReplay\tproperty"
+			],
+			[
+				"Parent",
+				"ParentComponentRegistration\talias"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 1601,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tsconfig.base.json",
+			"settings":
+			{
+				"buffer_size": 664,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tsconfig.release.json",
+			"settings":
+			{
+				"buffer_size": 192,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/read.spec.ts",
+			"settings":
+			{
+				"buffer_size": 687,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "node_modules/@types/jsdom/index.d.ts",
+			"settings":
+			{
+				"buffer_size": 5000,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "testdata/index.html",
+			"settings":
+			{
+				"buffer_size": 196,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "index.html"
+			}
+		},
+		{
+			"file": "src/index.ts",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "index.ts"
+			}
+		},
+		{
+			"file": "src/read.ts",
+			"settings":
+			{
+				"buffer_size": 118,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 167.0,
+		"last_filter": "theme",
+		"selected_items":
+		[
+			[
+				"theme",
+				"Material Theme: Activate theme"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"Open in",
+				"Open in Sourcetree"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 629.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/kio-ng2-templates",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/kio-ng2-templates/assets",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/kio-ng2-templates/build",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/kio-ng2-templates/src",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/kio-ng2-templates/testdata"
+	],
+	"file_history":
+	[
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/kio-ng2-templates/read.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/kio-ng2-templates/package.json",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/kio-ng2-templates/src/interfaces.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/kio-ng2-templates/src/digit-index/index.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/kio-ng2-templates/src/digit-index/data.interface.ts",
+		"/Users/tEErohr/Library/Application Support/Sublime Text 3/Packages/User/Snippets/afkm_debug_log.sublime-snippet",
+		"/Users/tEErohr/Library/Application Support/Sublime Text 3/Packages/User/Snippets/afkm_debug_observe.sublime-snippet",
+		"/Users/tEErohr/Library/Application",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/Support/Sublime",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/Text",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/3/Packages",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/test-helpers/types.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/test-helpers/assert/rx.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/test-helpers/sitemap.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/test-helpers/interfaces.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/digit-bgr.sublime-project",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/navigation/sitemap/services/kio-sitemap-loader.service.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/navigation/sitemap/services/kio-sitemap.service.spec.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/publication/src/image/image.component.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/navigation/sitemap/services/kio-sitemap.service.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/navigation/sitemap/token/index.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/navigation/sitemap/interfaces/kio-sitemap-config.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/test.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/i18n/locale.service.spec.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/test-targets/sitemap/src/tsconfig.spec.json",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/.angular-cli.json",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/navigation/sitemap/services/kio-sitemap-loader.service.digit.spec.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/karma.conf.js",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/utils/Rx/assert.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/navigation/sitemap/injectionToken.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/navigation/sitemap/index.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/navigation/sitemap/providers/locale.provider.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/test-helpers/backend.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/test-helpers/i18n.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/navigation/sitemap/test/fixture.locale-provider.spec.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/navigation/sitemap/test/providers.spec.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/services/kio-backend.service.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/navigation/sitemap/test/fixture.publication-loader.spec.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/navigation/sitemap/providers/config.provider.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/navigation/sitemap/interfaces/sitemap-loader.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/navigation/sitemap/interfaces/locale-provider.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/navigation/sitemap/interfaces/kio-sitemap-item.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/navigation/sitemap/interfaces/index.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/navigation/sitemap/interfaces/scroll-handler.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/tsconfig.spec.json",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/i18n/language-selector/language-selector.component.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/navigation/sitemap/interfaces/kio-sitemap.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/i18n/locale.service.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/test-targets/i18n/karma.conf.js",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/test-targets/sitemap/src/test.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/package.json",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/lazyload/test/component-loader.lazyload.spec.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/navigation/sitemap/classes/kio-sitemap.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/i18n/index.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/test-targets/i18n/src/test.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/test-targets/i18n/src/tsconfig.spec.json",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/i18n/language-selector/language-selector.component.spec.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/app.routing.module.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/test-targets/services/src/test.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/test-targets/services/karma.conf.js",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/test-targets/default/karma.conf.js",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/test-targets/services/src/tsconfig.spec.json",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/app.module.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/i18n/translate.module.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/test-targets/services/tsconfig.spec.json",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/test-targets/services/karma.conf.js",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/test-targets/services/test.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/test-targets/services/tsconfig.spec.json",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/test-targets/services/.angular-cli.json",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/test-targets/services/test.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/components/kio-static-content/kio-static-content.component.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/navigation/components/kio-navigation-root/kio-navigation-root.component.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/components/kio-abstract-content/kio-abstract-content.component.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/publication/src/image/image.component.html",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/app.component.html",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/navigation/components/kio-navigation-root/kio-navigation-root.component.html",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/debug/logger/filter.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/components/kio-publication-router/kio-publication-router.component.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/components/kio-abstract-fragment/kio-abstract-fragment.component.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/debug/logger/store/store.class.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/components/kio-abstract-lazy/kio-abstract-lazy.component.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/debug/logger/index.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/debug/logger/interfaces.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/debug/logger/render/render.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/debug/logger/render/format.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/lazyload/loader/abstract.loader.class.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/components/kio-abstract/kio-abstract.component.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/debug/logger/store/interfaces.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/publication/fragment/nba-group/nba-group.component.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/lazyload/index.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/components/kio-abstract-src/kio-abstract-src.component.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/debug/logger/scope/index.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/debug/logger/scope/stateful.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/debug/logger/logger.class.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/components/kio-embed/kio-embed.component.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/components/kio-abstract-txt/kio-abstract-txt.component.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/debug/interfaces.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/debug/logger/store/index.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/publication/fragment/nba/nba.component.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/services/bgr-lazy-meta.service.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/components/kio-content-router/kio-content-router.component.spec.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/publication/fragment/nba/nba.component.html",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/debug/index.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/node_modules/@angular/core/src/codegen_private_exports.d.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/debug/logger/render/console.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/debug/options/constants.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/debug/options/index.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/debug/options/interfaces.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/config/sitemap.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/debug/logger/options/constants.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/debug/logger/options/interfaces.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/debug/logger/render/index.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/modules/angular/kio-ng2-audio/test-app/src/app/audio/components/audio-player/audio-player.component.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/publication/fragment/audio-player/audio-player.component.html",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/publication/fragment/audio-player/audio-player.component.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/audio/index.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/debug/store/index.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/debug/logger/store/render",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/debug/logger/store/store.ts",
+		"/Users/tEErohr/Projects/afkm/kio/digit-bgr/src/app/kio/publication/src/audio/audio.component.ts",
+		"/Users/tEErohr/Projects/afkm/kio/digit-bgr/src/app/kio/publication/src/audio/audio.component.html",
+		"/Users/tEErohr/Projects/afkm/kio/digit-bgr/src/app/kio/components/kio-publication-router/kio-publication-router.component.ts",
+		"/Users/tEErohr/Projects/afkm/kio/digit-bgr/src/app/kio/navigation/components/kio-navigation/kio-navigation.component.ts",
+		"/Users/tEErohr/Projects/afkm/kio/digit-bgr/src/app/kio/navigation/components/kio-navigation-scroll-section/kio-navigation-scroll-section.component.ts",
+		"/Users/tEErohr/Projects/afkm/kio/digit-bgr/src/app/kio/navigation/components/kio-navigation-scroll-section/kio-navigation-scroll-section.enum.ts",
+		"/Users/tEErohr/Projects/afkm/kio/digit-bgr/src/app/kio/navigation/components/kio-navigation-scroller/kio-navigation-scroller.component.ts",
+		"/Users/tEErohr/Projects/afkm/kio/digit-bgr/src/app/kio/lazyload/loader/abstract.loader.class.ts",
+		"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/lazyload/decorator/child-component.decorator.ts"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio",
+			"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/navigation/sitemap",
+			"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio",
+			"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/debug/logger",
+			"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio",
+			"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/publication",
+			"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app",
+			"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio",
+			"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app",
+			"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/publication",
+			"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/navigation",
+			"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/config",
+			"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/components",
+			"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/navigation/components",
+			"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/navigation",
+			"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/navigation/components",
+			"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/navigation",
+			"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/components",
+			"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/kio/navigation",
+			"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app",
+			"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/navigation",
+			"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app",
+			"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app/navigation/components",
+			"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/digit-bgr/src/app",
+			"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/kio-ng2-cli/src",
+			"/Volumes/Macintosh HD 2/Development/Projects/afkm/kio/kio-ng2-cli/src/utils/rx",
+			"/Users/tEErohr/Documents/kio/angular2/digit/modules/kio-ng2-cli/src",
+			"/Users/tEErohr/Documents/kio/angular2/digit/digit-pvz/src/app",
+			"/Users/tEErohr/Documents/kio/angular2/digit/digit-pvz/src/app/kio",
+			"/Users/tEErohr/Documents/kio/angular2/digit/BMW-Art-Journey/bmwaj-ctn/src/app",
+			"/Users/tEErohr/Documents/kio/angular2/digit/BMW-Art-Journey/bmwaj-ctn/src/app/modules/kio-data/components",
+			"/Users/tEErohr/Documents/kio/angular2/digit/BMW-Art-Journey/bmwaj-ctn",
+			"/Users/tEErohr/Documents/kio/angular2/digit/BMW-Art-Journey/bmwaj-ctn/src/app",
+			"/Users/tEErohr/Documents/kio/angular2/digit/BMW-Art-Journey/bmwaj-ctn",
+			"/Users/tEErohr/Documents/kio/angular2/digit/BMW-Art-Journey/bmwaj-ctn/src/app/modules/kio-data",
+			"/Users/tEErohr/Documents/kio/angular2/digit/BMW-Art-Journey/bmwaj-ctn/src/app",
+			"/Users/tEErohr/Documents/kio/angular2/digit/BMW-Art-Journey/bmwaj-ctn/src/app/modules/kio-data",
+			"/Users/tEErohr/Documents/kio/angular2/digit/BMW-Art-Journey/bmwaj-ctn/src/app",
+			"/Users/tEErohr/Documents/kio/angular2/digit/BMW-Art-Journey/bmwaj-ctn/src/app/modules/kio-data/components",
+			"/Users/tEErohr/Documents/kio/angular2/digit/BMW-Art-Journey/bmwaj-ctn/src/app/modules",
+			"/Users/tEErohr/Documents/kio/angular2/digit/BMW-Art-Journey/bmwaj-ctn/src",
+			"/Users/tEErohr/Documents/kio/angular2/digit/digit-proto",
+			"/Users/tEErohr/Documents/kio/angular2/digit/digit-proto/src/app",
+			"/Users/tEErohr/Documents/kio/angular2/digit/digit-proto/src/app/components/publication",
+			"/Users/tEErohr/Documents/kio/angular2/digit/digit-proto/src/app",
+			"/Users/tEErohr/Documents/kio/angular2/digit/digit-proto/src/app/components/publication",
+			"/Users/tEErohr/Documents/kio/angular2/digit/digit-proto/src/app",
+			"/Users/tEErohr/Documents/kio/angular2/digit/digit-proto/src/app/components/publication",
+			"/Users/tEErohr/Documents/kio/angular2/digit/digit-proto/src/app",
+			"/Users/tEErohr/Documents/kio/angular2/digit/digit-proto/src",
+			"/Users/tEErohr/Documents/kio/tools/kio-dynamo-migrate/node_modules/bluebird/js/release",
+			"/Users/tEErohr/Documents/kio/tools/kio-dynamo-migrate/src",
+			"/Users/tEErohr/Documents/kio/components/text/kio-txt-react-dynamo-implementation/webpack",
+			"/Users/tEErohr/Documents/kio/components/text/kio-txt-react-dynamo/src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"parsedWindow",
+			"parsed",
+			"synasyn",
+			"syn",
+			"sitemapItems",
+			"observation",
+			"sitemapPublication",
+			"SequenceAssertionSubscription",
+			" spyOn",
+			"onNext",
+			"|| (",
+			"subscribeFakeObserver",
+			"observerApi",
+			"DoneFn",
+			"sitemapLoaderService",
+			"assertSequence",
+			"sitemapItems",
+			"pager",
+			"assertSequence",
+			"fixtureChapterPager",
+			"this.config.pager",
+			"publicationsSource",
+			"sitemapItems",
+			"fakeSitemapLoader",
+			"SITEMAP_CONFIG",
+			"xit",
+			"xdescribe",
+			"afkm",
+			"sitemapPublicationChapters",
+			"subscribeFakeObserver",
+			"subscribeFakeObserversubscribeFakeObserver",
+			"subscribeFakeObserver",
+			"')",
+			"updateChapterState",
+			"waitForChapter",
+			"gotoChapter",
+			"updateChapterState",
+			"auto",
+			"SITEMAP_CONFIG",
+			"test.ts",
+			"test",
+			"jasmine",
+			"LocaleProvider",
+			"LOCALE_PROVIDER",
+			"start",
+			"chapterIndex",
+			"autoLoadInterval",
+			"configProviderFactory",
+			"defaultLocaleProvider",
+			"localeProviderFactory",
+			"array",
+			"sitemapPublications",
+			"sitemapChanges",
+			"sitemapItems",
+			"FakeLocale",
+			"localeProvider.current",
+			"sitemapServiceSpies.sitemapChanges",
+			"sitemapPublications",
+			"loadSitemapPublication",
+			"sitemapPublications",
+			"sitemapItems",
+			"sitemapChanges",
+			"Config",
+			"Kio",
+			"Service",
+			"spyOnObserver",
+			"KioSitemapLoaderService",
+			"sy",
+			"onEror",
+			"onNext",
+			"Next",
+			"KIO_IMG_URL",
+			"API_URL",
+			"SITEMAP_CONFIG",
+			"scroll",
+			"localeService",
+			"Router",
+			"loadNavigationData",
+			"loadNavigationItem",
+			"loadNavigationItemWithLocale",
+			"backend.",
+			"back",
+			"string",
+			"backend",
+			"/dist/zone",
+			"backend",
+			"fact",
+			"locale",
+			"SitemapConfigItems",
+			"SitemapConfig",
+			"SITEMAP_CONFIG",
+			"providers",
+			"i18n",
+			"app/i18n",
+			"L",
+			"string",
+			"observerSp",
+			"obser",
+			"observerSpyOnError",
+			"observerSpy",
+			"Next",
+			"de",
+			"translateService",
+			"de",
+			"=",
+			"\n",
+			"public ",
+			"public supportedLocales",
+			"  ",
+			"Router",
+			"current",
+			"test:prepare:i18n",
+			"pretest:i18n",
+			"services",
+			"lazy",
+			"test_",
+			"./",
+			"TEST_ROOT",
+			"src",
+			"'./src",
+			"./src",
+			"./test",
+			".ts",
+			"'./src",
+			"karma",
+			"../test-targets",
+			"\"project\": \"",
+			"src/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1601,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								658,
+								658
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "tsconfig.base.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 664,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2,
+								25
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "tsconfig.release.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 192,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								192,
+								192
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/read.spec.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 687,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								687,
+								687
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "node_modules/@types/jsdom/index.d.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5000,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								320,
+								320
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 17.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "testdata/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 196,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								180,
+								180
+							]
+						],
+						"settings":
+						{
+							"auto_name": "index.html",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/index.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "index.ts",
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/read.ts",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 118,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								118,
+								118
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 114.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 114.0
+	},
+	"pinned_build_system": "Packages/User/Build Systems/ts-mocha.sublime-build",
+	"project": "kio-ng2-templates.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"jsdom.d.",
+				"node_modules/@types/jsdom/index.d.ts"
+			],
+			[
+				"typ",
+				"Test Helpers/types.ts"
+			],
+			[
+				"testhel/inter",
+				"Test Helpers/interfaces.ts"
+			],
+			[
+				"test/types.ts",
+				"Test Helpers/types.ts"
+			],
+			[
+				"backe",
+				"digit-bgr/src/app/test-helpers/backend.ts"
+			],
+			[
+				"locale-pr",
+				"digit-bgr/src/app/kio/navigation/sitemap/test/fixture.locale-provider.spec.ts"
+			],
+			[
+				"image.com",
+				"digit-bgr/src/app/kio/publication/src/image/image.component.ts"
+			],
+			[
+				"backend",
+				"digit-bgr/src/app/kio/services/kio-backend.service.ts"
+			],
+			[
+				"backend.",
+				"digit-bgr/src/app/kio/services/kio-backend.service.ts"
+			],
+			[
+				"backen",
+				"digit-bgr/src/app/kio/services/kio-backend.service.ts"
+			],
+			[
+				"i18n/ind",
+				"digit-bgr/src/app/i18n/index.ts"
+			],
+			[
+				"loader.spec",
+				"digit-bgr/src/app/kio/navigation/sitemap/services/kio-sitemap-loader.service.digit.spec.ts"
+			],
+			[
+				"pack",
+				"digit-bgr/package.json"
+			],
+			[
+				"pakc",
+				"digit-bgr/package.json"
+			],
+			[
+				"app.mod",
+				"digit-bgr/src/app/app.module.ts"
+			],
+			[
+				"locale.ser",
+				"digit-bgr/src/app/i18n/locale.service.ts"
+			],
+			[
+				"root.com",
+				"digit-bgr/src/app/kio/navigation/components/kio-navigation-root/kio-navigation-root.component.ts"
+			],
+			[
+				"app.com",
+				"digit-bgr/src/app/app.component.html"
+			],
+			[
+				"store/",
+				"digit-bgr/src/app/debug/logger/store/store.class.ts"
+			],
+			[
+				"logger/",
+				"digit-bgr/src/app/debug/logger/index.ts"
+			],
+			[
+				"image.c",
+				"digit-bgr/src/app/kio/publication/src/image/image.component.ts"
+			],
+			[
+				"lazyload/",
+				"lazyload/index.ts"
+			],
+			[
+				"packa",
+				"digit-bgr/package.json"
+			],
+			[
+				"format",
+				"digit-bgr/src/app/debug/logger/render/format.ts"
+			],
+			[
+				"render",
+				"digit-bgr/src/app/debug/logger/render/render.ts"
+			],
+			[
+				"logger.",
+				"digit-bgr/src/app/debug/logger/logger.class.ts"
+			],
+			[
+				"logger/inde",
+				"digit-bgr/src/app/debug/logger/index.ts"
+			],
+			[
+				"fragment",
+				"digit-bgr/src/app/kio/components/kio-abstract-fragment/kio-abstract-fragment.component.ts"
+			],
+			[
+				"scope/",
+				"digit-bgr/src/app/debug/logger/scope/stateful.ts"
+			],
+			[
+				"scope",
+				"core/src/codegen_private_exports.d.ts"
+			],
+			[
+				"nba",
+				"digit-bgr/src/app/kio/publication/fragment/nba/nba.component.ts"
+			],
+			[
+				"sitemap.",
+				"digit-bgr/src/app/config/sitemap.ts"
+			],
+			[
+				"debug",
+				"digit-bgr/src/app/debug/index.ts"
+			],
+			[
+				"audio-play",
+				"digit-bgr/src/app/kio/publication/fragment/audio-player/audio-player.component.ts"
+			],
+			[
+				"audio.c",
+				"digit-bgr/src/app/kio/publication/src/audio/audio.component.ts"
+			],
+			[
+				"abstr",
+				"lazyload/loader/abstract.loader.class.ts"
+			],
+			[
+				"static-cont",
+				"src/app/kio/components/kio-static-content/kio-static-content.component.ts"
+			],
+			[
+				"static",
+				"src/app/kio/components/kio-static-content/kio-static-content.component.ts"
+			],
+			[
+				"navigation-com",
+				"src/app/kio/navigation/components/kio-navigation-content/kio-navigation-content.component.ts"
+			],
+			[
+				"component.loade",
+				"src/app/kio/lazyload/loader/kio-component.loader.ts"
+			],
+			[
+				"simple-te",
+				"src/app/kio/publication/txt/simple-text/simple-text.component.ts"
+			],
+			[
+				"navigation-scroller",
+				"src/app/kio/navigation/components/kio-navigation-scroller/kio-navigation-scroller.component.ts"
+			],
+			[
+				"static-c",
+				"src/app/kio/components/kio-static-content/kio-static-content.component.ts"
+			],
+			[
+				"labele",
+				"src/app/kio/publication/fragment/labeled-image-with-description/labeled-image-with-description.component.ts"
+			],
+			[
+				"abstract-frag",
+				"src/app/kio/components/kio-abstract-fragment/kio-abstract-fragment.component.ts"
+			],
+			[
+				"simple",
+				"src/app/kio/publication/txt/simple-text/simple-text.component.ts"
+			],
+			[
+				"formatted",
+				"src/app/kio/publication/txt/formatted-text/formatted-text.component.ts"
+			],
+			[
+				"component-bui",
+				"src/app/kio/components/kio-component-builder/kio-component-builder.component.ts"
+			],
+			[
+				"kio-abstract-co",
+				"src/app/kio/components/kio-abstract-content/kio-abstract-content.component.ts"
+			],
+			[
+				"simple-test",
+				"src/app/kio/publication/txt/simple-text/simple-text.component.ts"
+			],
+			[
+				"package-",
+				"package-lock.json"
+			],
+			[
+				"fragment.component",
+				"src/app/kio/components/kio-abstract-fragment/kio-abstract-fragment.component.ts"
+			],
+			[
+				"fragm",
+				"src/app/kio/components/kio-abstract-fragment/kio-abstract-fragment.component.ts"
+			],
+			[
+				"abstract-con",
+				"src/app/kio/components/kio-abstract-content/kio-abstract-content.component.ts"
+			],
+			[
+				"tw-col",
+				"src/app/kio/publication/fragment/two-columns-and-image/two-columns-and-image.component.ts"
+			],
+			[
+				"two-c",
+				"src/app/kio/publication/fragment/two-columns/two-columns.component.ts"
+			],
+			[
+				"sitemap",
+				"src/app/config/sitemap.ts"
+			],
+			[
+				"content.comp",
+				"src/app/kio/components/kio-abstract-content/kio-abstract-content.component.ts"
+			],
+			[
+				"text-an",
+				"src/app/kio/publication/fragment/text-and-audio/text-and-audio.component.ts"
+			],
+			[
+				"labeled-",
+				"src/app/kio/publication/fragment/labeled-image/labeled-image.component.ts"
+			],
+			[
+				"image-gallery-w",
+				"src/app/kio/publication/fragment/image-gallery-wide/image-gallery-wide.component.ts"
+			],
+			[
+				"image-ga",
+				"src/app/kio/publication/fragment/image-gallery/image-gallery.component.html"
+			],
+			[
+				"bigi",
+				"src/app/kio/publication/fragment/big-pic/big-pic.component.ts"
+			],
+			[
+				"bigp",
+				"src/app/kio/publication/fragment/big-pic/big-pic.component.ts"
+			],
+			[
+				"nba.",
+				"src/app/kio/publication/fragment/nba/nba.component.ts"
+			],
+			[
+				"factory",
+				"src/app/kio/factory/kio-components.factory.ts"
+			],
+			[
+				"component",
+				"src/app/kio/components/kio-component-builder/kio-component-builder.component.ts"
+			],
+			[
+				"fact",
+				"src/app/kio/factory/kio-components.factory.ts"
+			],
+			[
+				"kio-compo",
+				"src/app/kio/services/kio-component.service.ts"
+			],
+			[
+				"share.com",
+				"src/app/kio/publication/fragment/share/share.component.ts"
+			],
+			[
+				"panel",
+				"src/app/kio/publication/fragment/panel-chapter/panel-chapter.component.ts"
+			],
+			[
+				"bigpic",
+				"src/app/kio/publication/fragment/big-pic/big-pic.component.ts"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"content-router",
+				"src/app/kio/components/kio-content-router/kio-content-router.component.ts"
+			],
+			[
+				"app.mo",
+				"src/app/app.module.ts"
+			],
+			[
+				"poly",
+				"src/polyfills.ts"
+			],
+			[
+				"sitemap.ser",
+				"src/app/kio/navigation/sitemap/services/kio-sitemap.service.ts"
+			],
+			[
+				"language-se",
+				"src/app/i18n/language-selector/language-selector.component.html"
+			],
+			[
+				"menu",
+				"src/app/components/pvz-menu/pvz-menu.component.html"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"navi-roo",
+				"src/app/kio/navigation/components/kio-navigation-root/kio-navigation-root.component.ts"
+			],
+			[
+				"navigation-roo",
+				"src/app/kio/navigation/components/kio-navigation-root/kio-navigation-root.component.css"
+			],
+			[
+				"routing",
+				"src/app/app.routing.ts"
+			],
+			[
+				"kio-navigation-roo",
+				"src/app/kio/navigation/components/kio-navigation-root/kio-navigation-root.component.ts"
+			],
+			[
+				"kio-image.",
+				"src/app/kio/components/kio-image/kio-image.component.ts"
+			],
+			[
+				"publication-res",
+				"src/app/navigation/resolvers/publication-resolver.service.ts"
+			],
+			[
+				"kio-naviga",
+				"src/app/navigation/classes/kio-navigation-config.ts"
+			],
+			[
+				"rxfs/release/index",
+				"node_modules/rxfs/release/index.d.ts"
+			],
+			[
+				"rxfs/",
+				"node_modules/rxfs/package.json"
+			],
+			[
+				"node_modules/jasmine/ind",
+				"node_modules/@types/jasmine/index.d.ts"
+			],
+			[
+				"pak",
+				"kio-ng2-cli/package.json"
+			],
+			[
+				"rx/fs/exe",
+				"kio-ng2-cli/src/utils/rx/fs/exec.ts"
+			],
+			[
+				"rx/fs",
+				"kio-ng2-cli/src/utils/rx/fs/exec.ts"
+			],
+			[
+				"rxfs",
+				"src/utils/rx/fs.spec.ts"
+			],
+			[
+				"rx/lo",
+				"src/utils/rx/log.ts"
+			],
+			[
+				"idea.com",
+				"src/app/modules/kio-data/components/publication/fragment/idea/idea.component.ts"
+			],
+			[
+				"types/svg-pan-zoom",
+				"node_modules/@types/svg-pan-zoom/index.d.ts"
+			],
+			[
+				"svg-ob",
+				"src/app/modules/kio-data/components/publication/src/svg-object/svg-object.component.ts"
+			],
+			[
+				"ki-abst",
+				"src/app/modules/kio-data/components/kio-abstract/kio-abstract.component.ts"
+			],
+			[
+				"simple-sour",
+				"src/app/modules/kio-data/components/publication/src/simple-source/simple-source.component.ts"
+			],
+			[
+				"lazyload",
+				"src/app/modules/scrolling/components/lazy-load-container/lazy-load-container.component.ts"
+			],
+			[
+				"kio-navig.ser",
+				"src/app/modules/kio-data/navigation/services/kio-navigation.service.ts"
+			],
+			[
+				"imprint",
+				"src/app/modules/kio-data/components/publication/fragment/imprint/imprint.component.html"
+			],
+			[
+				"kio-content-r",
+				"src/app/modules/kio-data/components/kio-content-router/kio-content-router.component.html"
+			],
+			[
+				"kio-image",
+				"src/app/modules/kio-data/components/kio-image/kio-image.component.ts"
+			],
+			[
+				"cquery.spec",
+				"src/app/modules/kio-data/components/tests/Fixtures.cquery.spec.ts"
+			],
+			[
+				"backend.ser",
+				"src/app/modules/kio-data/services/kio-backend.service.ts"
+			],
+			[
+				"single-teaser",
+				"src/app/modules/kio-data/components/publication/fragment/single-teaser/single-teaser.component.cquery.criteria.ts"
+			],
+			[
+				"kio-navigation-me",
+				"src/app/modules/kio-data/navigation/components/kio-navigation-menu/kio-navigation-menu.component.html"
+			],
+			[
+				"menu.com",
+				"src/app/modules/kio-data/navigation/components/kio-navigation-menu/kio-navigation-menu.component.ts"
+			],
+			[
+				"kio-nav-men",
+				"src/app/modules/kio-data/navigation/components/kio-navigation-menu/kio-navigation-menu.component.ts"
+			],
+			[
+				"kio-navigation-inde",
+				"src/app/modules/kio-data/navigation/components/kio-navigation-index/kio-navigation-index.component.html"
+			],
+			[
+				"router",
+				"node_modules/@angular/router/src/router.d.ts"
+			],
+			[
+				"router/",
+				"node_modules/@angular/router/index.d.ts"
+			],
+			[
+				"query",
+				"src/app/modules/kio-data/query/Query.ts"
+			],
+			[
+				"matchcomponent",
+				"node_modules/batch/component.json"
+			],
+			[
+				"template2",
+				"src/app/modules/kio-data/components/publication/fragment/artist-template2/artist-template2.component.html"
+			],
+			[
+				"kio-list",
+				"src/app/modules/kio-data/components/kio-list/kio-list.component.ts"
+			],
+			[
+				"image-gall",
+				"src/app/modules/kio-data/components/publication/fragment/image-gallery/image-gallery.component.ts"
+			],
+			[
+				"query.ts",
+				"src/app/modules/kio-data/query/Query.ts"
+			],
+			[
+				"kio-navigation-route",
+				"src/app/modules/kio-data/navigation/classes/kio-navigation-route.ts"
+			],
+			[
+				"navigation/routes/mapt",
+				"src/app/modules/kio-data/navigation/routes/mapTypes.ts"
+			],
+			[
+				"kiofr",
+				"modules/kio-data/classes/kio-fragment.ts"
+			],
+			[
+				"kio-conte",
+				"modules/kio-data/classes/kio-content.ts"
+			],
+			[
+				"kioabstractcomponent",
+				"modules/kio-data/components/kio-abstract/kio-abstract.component.ts"
+			],
+			[
+				"content-router.ts",
+				"modules/kio-data/components/kio-content-router/kio-content-router.component.ts"
+			],
+			[
+				"content-ro",
+				"modules/kio-data/components/kio-content-router/kio-content-router.component.css"
+			],
+			[
+				"kio-node",
+				"src/app/modules/kio-data/classes/kio-node.ts"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 378.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

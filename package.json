@@ -1,0 +1,47 @@
+{
+	"name": "kio-ng2-index-templates",
+	"version": "0.0.0",
+	"description": "templates to use for digitorial projects",
+	"main": "release/index.js",
+	"bin": {
+		"kio-ng2-index-templates": "./bin/render.js"
+	},
+	"scripts": {
+		"test": "ts-mocha ./src/**/*.spec.ts",
+		"postversion": "git push && git push --tags",
+		"build": "npm run build:ts",
+		"build:release": "NODE_ENV=production npm run build",
+		"postbuild:release": "rm -rf ./release; mv ./build ./release",
+		"build:release:watch": "./scripts/watch.sh build:release",
+		"build:package": "NODE_ENV=package npm run build",
+		"build:ts": "tsc -p tsconfig.release.json"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:afkm/kio-ng2-index-templates.git"
+	},
+	"keywords": [],
+	"author": "Matthias Buchholz <mb@averagejoe.de>",
+	"license": "ISC",
+	"typings": "release/index.d.ts",
+	"devDependencies": {
+		"@types/chai": "^4.0.1",
+		"@types/mocha": "^2.2.41",
+		"@types/node": "^8.0.7",
+		"@types/yargs": "^8.0.0",
+		"chai": "^4.0.2",
+		"mocha": "^3.4.2",
+		"nodemon": "^1.11.0",
+		"ts-mocha": "^1.0.3",
+		"ts-node": "^3.1.0",
+		"tslint": "^5.4.3",
+		"typescript": "^2.4.1"
+	},
+	"dependencies": {
+		"@types/handlebars": "^4.0.33",
+		"@types/jsdom": "^11.0.1",
+		"handlebars": "^4.0.10",
+		"jsdom": "^11.1.0",
+		"yargs": "^8.0.2"
+	}
+}

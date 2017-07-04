@@ -1,0 +1,62 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>{{ meta_title }}</title>
+    <base href="/">
+
+    <meta name="fragment" content="!">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+
+    <link rel="icon" type="image/x-icon" href="/assets/images/favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/images/favicon.ico" />
+    <link rel="apple-touch-icon" href="/assets/images/apple-touch-icon.png">
+
+    <meta name="description" content="{{ meta_description }}"/>
+
+    <meta property="og:url" content="{{ opengraph_url }}"/>
+    <meta property="og:type" content="{{ opengraph_type }}website" />
+    <meta property="og:title" content="{{ opengraph_title }}"/>
+    <meta property="og:image" content="{{ opengraph_image }}"/>
+    <meta property="og:description" content="{{ opengraph_description }}"/>
+
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:title" content="{{ opengraph_title }}"/>
+    <meta name="twitter:description" content="{{ opengraph_description }}"/>
+    <meta name="twitter:image" content="{{ opengraph_image }}"/>
+
+    <link type="text/css" rel="stylesheet" href="//fast.fonts.net/cssapi/9db418e3-a25d-47f3-8d8d-137d0e479322.css"/>
+
+    <style type="text/css" media="screen">
+        .hidden {
+            display: none;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Google Tag Manager -->
+    <!-- <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KRNMP9"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KRNMP9');</script> -->
+    <!-- End Google Tag Manager -->
+    <app-root>
+        <div class="brand">BRAND</div>
+        <h1>TITLE</h1>
+        <h3>SUB TITLE</h3>
+
+        <div class="nojs">Your browser is too old.</div>
+        <div class="hellyeahjs hidden">Your browser is cool. I’m loading already...</div>
+    </app-root>
+</body>
+<script type="text/javascript">
+    document.body.querySelector('.nojs').remove()
+    document.body.querySelector('.hellyeahjs').classList.remove('hidden')
+</script>
+</html>
